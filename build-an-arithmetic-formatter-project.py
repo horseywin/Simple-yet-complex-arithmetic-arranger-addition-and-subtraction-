@@ -87,4 +87,6 @@ def arithmetic_arranger(problems, show_answers=False):
     
     return final
 
-print(arithmetic_arranger(["32 - 698", "1 - 3801", "45 + 43", "123 + 49", "988 + 40"], True)) 
+print(arithmetic_arranger(["10 + 10", "911 - 911", "69 + 43", "123 + 456", "988 + 40"], True)) 
+
+
